@@ -11,13 +11,13 @@ win下  使用icloud下载 保留高效率原件的情况下  还是会转一份
 
 
 使用:
-  把py文件放到要整理的文件夹里   比如icloud photos/2021
-  测试程序运行正常 没有把奇怪的东西 不应该的东西加入删除列表
-  解除最下面的注释 再运行一遍
-  完成之后去回收站再次确认 没有删除不应该删除的东西    只删了重复的内容
+   把py文件放到要整理的文件夹里   比如icloud photos/2021<br>
+   测试程序运行正常 没有把奇怪的东西 不应该的东西加入删除列表<br>
+   解除最下面的注释 再运行一遍<br>
+   完成之后去回收站再次确认 没有删除不应该删除的东西    只删了重复的内容<br>
   
  Usage:
-  put py file in photo folder you want to delete duplicate photos
-  test the program runs right ,not add wrong file to delete list
-  uncomment last part and run
-  after fnish,check again in trash bin, makesure nothing wrong is deleted
+   put py file in photo folder you want to delete duplicate photos<br>
+   test the program runs right ,not add wrong file to delete list<br>
+   uncomment last part and run<br>
+   after fnish,check again in trash bin, makesure nothing wrong is deleted<br>
